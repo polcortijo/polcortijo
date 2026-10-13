@@ -89,3 +89,10 @@ Creació d'aquest repositori per practicar el control de versions, l'edició de 
 
 El meu objectiu és continuar aprenent i adquirir experiència pràctica en el sector informàtic. Vull millorar les meves habilitats en **administració de sistemes, xarxes i seguretat informàtica**, i preparar-me per afrontar futurs reptes professionals.
 
+## Contacte
+
+- **GitHub:** [polcortijo](https://github.com/polcortijo)
+
+---
+
+*Perfil professional creat com a part de la meva formació en Sistemes Microinformàtics i Xarxes (SMX).*
