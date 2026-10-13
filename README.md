@@ -92,6 +92,7 @@ El meu objectiu és continuar aprenent i adquirir experiència pràctica en el s
 ## 📫 Contacte
 
 - **💻 GitHub:** [polcortijo](https://github.com/polcortijo)
+- **📧 Correu electrònic:** pol.cortijo.piabyte@gmail.com
 
 ---
 
