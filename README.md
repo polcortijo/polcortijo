@@ -49,3 +49,29 @@ Durant els estudis estic aprenent a:
 - **Git i GitHub**
 - **Visual Studio Code**
 - **Markdown**
+
+## Projectes i pràctiques
+
+### 1. Administració de sistemes Linux
+
+Pràctiques de creació d'usuaris i grups, gestió de permisos, propietaris i directoris des de la terminal.
+
+### 2. Configuració d'un servidor DHCP
+
+Instal·lació i configuració del servei **Kea DHCP** a Ubuntu Server per gestionar l'assignació dinàmica d'adreces IP.
+
+### 3. Anàlisi de xarxes amb Wireshark
+
+Captura i anàlisi de paquets de xarxa per entendre el funcionament de protocols com DHCP.
+
+### 4. Configuració de màquines virtuals
+
+Creació i configuració de màquines virtuals amb **VirtualBox** per practicar la instal·lació de sistemes operatius i la configuració de xarxes.
+
+### 5. Programació amb Python i Bash
+
+Realització d'exercicis de programació i scripts per practicar variables, operacions, entrada i sortida de dades i automatització de tasques.
+
+### 6. Perfil professional amb Git i GitHub
+
+Creació d'aquest repositori per practicar el control de versions, l'edició de documentació amb Markdown i la presentació de projectes.
