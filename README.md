@@ -30,25 +30,25 @@ Durant els estudis estic aprenent a:
 
 ### 💿 Sistemes operatius
 
-- ** 🪟 Windows**
-- ** 🐧Ubuntu Server**
-- ** 🖥️ Zorin OS**
+- **🪟 Windows**
+- **🐧Ubuntu Server**
+- **🖥️ Zorin OS**
 
 ### 🌐 Xarxes i serveis
 
-- ** 🔗 TCP/IP** i adreçament IP
-- ** 📡 DHCP** i Kea DHCP
-- ** 🔑 SSH**
-- ** 📊 Wireshark**
-- ** 🖥️ VirtualBox**
+- **🔗 TCP/IP** i adreçament IP
+- **📡 DHCP** i Kea DHCP
+- **🔑 SSH**
+- **📊 Wireshark**
+- **🖥️ VirtualBox**
 
 ### 👨‍💻 Programació i eines de desenvolupament
 
-- ** 🐍 Python**
-- ** 💻 Bash scripting**
-- ** 🌿 Git i GitHub**
-- ** 📝 Visual Studio Code**
-- ** 📄 Markdown**
+- **🐍 Python**
+- **💻 Bash scripting**
+- **🌿 Git i GitHub**
+- **📝 Visual Studio Code**
+- **📄 Markdown**
 
 ## 🚀 Projectes i pràctiques
 
@@ -91,8 +91,8 @@ El meu objectiu és continuar aprenent i adquirir experiència pràctica en el s
 
 ## 📫 Contacte
 
-- ** 💻 GitHub:** [polcortijo](https://github.com/polcortijo)
+- **💻 GitHub:** [polcortijo](https://github.com/polcortijo)
 
 ---
 
-* ⭐ Perfil professional creat com a part de la meva formació en Sistemes Microinformàtics i Xarxes (SMX).*
+*⭐ Perfil professional creat com a part de la meva formació en Sistemes Microinformàtics i Xarxes (SMX).*
