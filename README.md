@@ -75,3 +75,17 @@ Realització d'exercicis de programació i scripts per practicar variables, oper
 ### 6. Perfil professional amb Git i GitHub
 
 Creació d'aquest repositori per practicar el control de versions, l'edició de documentació amb Markdown i la presentació de projectes.
+
+## Interessos
+
+- Administració de sistemes informàtics.
+- Xarxes i serveis de comunicació.
+- Sistemes Linux.
+- Programació i automatització.
+- Seguretat informàtica.
+- Noves tecnologies.
+
+## Objectius professionals
+
+El meu objectiu és continuar aprenent i adquirir experiència pràctica en el sector informàtic. Vull millorar les meves habilitats en **administració de sistemes, xarxes i seguretat informàtica**, i preparar-me per afrontar futurs reptes professionals.
+
