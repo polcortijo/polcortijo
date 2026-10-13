@@ -5,3 +5,10 @@
 Benvingut al meu perfil de GitHub! Soc estudiant de **SMX** i estic desenvolupant els meus coneixements en sistemes operatius, xarxes informàtiques, programació i administració de sistemes.
 
 En aquest perfil comparteixo alguns dels projectes i les pràctiques que realitzo durant la meva formació.
+---
+
+## Sobre mi
+
+M'interessa el món de la informàtica i especialment entendre com funcionen els ordinadors, els sistemes operatius i les xarxes. M'agrada aprendre mitjançant exercicis pràctics, resoldre problemes i descobrir noves eines tecnològiques.
+
+Actualment estic ampliant els meus coneixements tècnics i millorant la meva capacitat per treballar de manera organitzada i autònoma.
