@@ -12,3 +12,16 @@ En aquest perfil comparteixo alguns dels projectes i les pràctiques que realitz
 M'interessa el món de la informàtica i especialment entendre com funcionen els ordinadors, els sistemes operatius i les xarxes. M'agrada aprendre mitjançant exercicis pràctics, resoldre problemes i descobrir noves eines tecnològiques.
 
 Actualment estic ampliant els meus coneixements tècnics i millorant la meva capacitat per treballar de manera organitzada i autònoma.
+
+## Formació
+
+**Cicle Formatiu de Grau Mitjà de Sistemes Microinformàtics i Xarxes (SMX)**
+
+Durant els estudis estic aprenent a:
+
+- Instal·lar i configurar sistemes operatius.
+- Administrar usuaris, grups i permisos a Linux.
+- Configurar xarxes locals i adreces IP.
+- Instal·lar i gestionar serveis de xarxa.
+- Utilitzar eines de programació i control de versions.
+- Diagnosticar i resoldre problemes informàtics.
