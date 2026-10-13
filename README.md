@@ -25,3 +25,27 @@ Durant els estudis estic aprenent a:
 - Instal·lar i gestionar serveis de xarxa.
 - Utilitzar eines de programació i control de versions.
 - Diagnosticar i resoldre problemes informàtics.
+
+## Tecnologies i eines
+
+### Sistemes operatius
+
+- **Windows**
+- **Ubuntu Server**
+- **Zorin OS**
+
+### Xarxes i serveis
+
+- **TCP/IP** i adreçament IP
+- **DHCP** i Kea DHCP
+- **SSH**
+- **Wireshark**
+- **VirtualBox**
+
+### Programació i eines de desenvolupament
+
+- **Python**
+- **Bash scripting**
+- **Git i GitHub**
+- **Visual Studio Code**
+- **Markdown**
